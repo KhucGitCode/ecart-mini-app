@@ -10,17 +10,17 @@ It is designed to showcase strong React fundamentals and clean UI/UX practices s
 
 ##  Live Features
 
-✅ Responsive product grid
-✅ Smart Add-to-Cart logic (quantity merging)
-✅ Increase / decrease quantity controls
-✅ Remove items from cart
-✅ Real-time cart count in header
-✅ Automatic total price calculation
-✅ Checkout modal workflow
-✅ Order success state
-✅ Disabled checkout when cart empty
-✅ Smooth micro-interactions and animations
-✅ Mobile-friendly layout
+ Responsive product grid
+ Smart Add-to-Cart logic (quantity merging)
+ Increase / decrease quantity controls
+ Remove items from cart
+ Real-time cart count in header
+ Automatic total price calculation
+ Checkout modal workflow
+ Order success state
+ Disabled checkout when cart empty
+ Smooth micro-interactions and animations
+ Mobile-friendly layout
 
 ---
 
