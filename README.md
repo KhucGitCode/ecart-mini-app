@@ -1,4 +1,4 @@
-#  Mini E-commerce Store — React
+#  Mini E-commerce Store
 
 ##  Overview
 
